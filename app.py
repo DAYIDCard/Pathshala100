@@ -85,7 +85,7 @@ def extract_summary_from_file(file_content):
     return df
 
 def main():
-    st.title("OneDrive Data Visualization")
+    st.title("Pathshala 100th Year Nivedanam")
     # Get access token using client credentials
     access_token = get_access_token()
 
